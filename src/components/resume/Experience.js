@@ -19,7 +19,7 @@ const Experience = () => {
             title="Fullstack Developer"
             subTitle=" Thots2IT Technology Services Pvt Ltd"
             result="Madurai"
-            des="Developed and maintained web applications using Java, Spring Boot, HTML, CSS, JavaScript, and MySQL Participated in the complete software development life cycle including requirement gathering, coding, unit testing, and deployment Built and consumed RESTful APIs and integrated backend services with frontend components Used Git for version control and Postman for API testing Collaborated with QA team to resolve bugs and enhance functionality Followed Agile development practices, participated in daily standups and sprint reviews"
+            des="Built full-stack apps using Java, Spring Boot, and MySQL. Developed REST APIs, integrated frontend, used Git/Postman, and followed Agile to enhance features and fix bugs."
           />
           
           
