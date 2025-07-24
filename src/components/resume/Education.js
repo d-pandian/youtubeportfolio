@@ -19,7 +19,8 @@ const Education = () => {
           <ResumeCard
             title="BSc in Computer Science"
             subTitle="Srm Univercity Chennai, Tamilnadu,India( 2021- 2023)"
-            result="3.90/4"
+            result="CGPA: 8.14 / 10
+"
             des="Studied core CS subjects including Java, Python, C, C++, JavaScript, MySQL, and Cloud Computing. Completed projects involving database systems and full-stack web development"
           />
           
