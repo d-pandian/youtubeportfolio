@@ -11,19 +11,18 @@ const ContactLeft = () => {
         alt="contactImg"
       />
       <div className="flex flex-col gap-4">
-        <h3 className="text-3xl font-bold text-white">John Doe</h3>
+        <h3 className="text-3xl font-bold text-white">Pandian D</h3>
         <p className="text-lg font-normal text-gray-400">
           MERN Stack Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+          I am a Full Stack Software Developer with 1 year of experience building scalable enterprise web applications using Java (Spring Boot), Python (Django/Flask), and full stack JavaScript technologies including MongoDB, Express.js, React.js, and Node.js (MERN Stack). I have contributed to the development and deployment of ERP modules, RESTful APIs, and custom software solutions with a strong focus on performance, clean code, and security. I’m well-versed in SQL/MySQL, MongoDB, frontend frameworks (HTML, CSS, Bootstrap), and use tools like Git, Postman, and VS Code. I thrive in Agile teams and am passionate about building secure, responsive, and optimized web applications across both Java and Python ecosystems.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+968 97859628</span>
+          Phone: <span className="text-lightText">+91 6380429824</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">noor.jsdivs@gmail.com</span>
+          Email: <span className="text-lightText">pandya07844@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
